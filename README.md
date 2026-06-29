@@ -1,8 +1,8 @@
-# CodeAlpha_CPP_Banking_Management_System
+# CodeAlpha_Banking_Management_System
 
 ## Description
 
-This project is a beginner-friendly C++ console application developed as part of the **CodeAlpha C++ Programming Internship**. It simulates a simple banking management system where users can create bank accounts, deposit and withdraw funds, transfer money between accounts, and view account details and transaction history.
+This project is a beginner-friendly C++ console application developed as part of the **CodeAlpha C++ Programming Internship**. The Banking Management System enables users to create bank accounts, deposit and withdraw funds, transfer money between accounts, view account details, and check transaction history through a simple menu-driven interface.
 
 ---
 
@@ -14,7 +14,8 @@ This project is a beginner-friendly C++ console application developed as part of
 - Transfer Funds Between Accounts
 - View Account Details
 - View Transaction History
-- Menu-Driven Console Interface
+- Menu-Driven Console Application
+- Input Validation for Banking Operations
 
 ---
 
@@ -22,10 +23,10 @@ This project is a beginner-friendly C++ console application developed as part of
 
 - C++
 - Arrays
-- Functions
+- Strings
 - Loops
 - Conditional Statements
-- File Handling (if applicable)
+- Menu-Driven Programming
 
 ---
 
@@ -38,26 +39,32 @@ This project is a beginner-friendly C++ console application developed as part of
 ![Create Account](Create%20Account.png)
 
 ### Deposit Funds
-![Deposit](Deposit.png)
+![Deposit Funds](Deposit%20Amount.png)
 
 ### Withdraw Funds
-![Withdraw](Withdraw.png)
+![Withdraw Funds](Withdraw%20Funds.png)
+
+### Create Second Account
+![Create Account 2](Create%20Account%202.png)
 
 ### Transfer Funds
-![Transfer](Transfer.png)
+![Transfer Funds](Transfer%20Funds.png)
+
+### Account Details
+![Account Details](Account%20Details.png)
 
 ### Transaction History
 ![Transaction History](Transaction%20History.png)
 
-### Program Output
-![Program Output](Program%20Output.png)
+### Exiting Program
+![Exiting Program](Exiting%20Program.png)
 
 ---
 
 ## How to Run
 
 1. Compile the `Banking_Management_System.cpp` file using any C++ compiler.
-2. Run the executable.
+2. Run the generated executable.
 3. Select an option from the main menu.
 4. Follow the on-screen instructions to perform banking operations.
 
@@ -65,14 +72,32 @@ This project is a beginner-friendly C++ console application developed as part of
 
 ## Learning Outcomes
 
-This project helped me understand:
+This project helped me improve my understanding of:
 
 - Arrays and data management
-- Menu-driven programming
-- Functions in C++
-- Transaction processing
-- Banking system logic
-- Problem-solving using C++
+- Functions and modular programming
+- Conditional statements and loops
+- Menu-driven console applications
+- Basic banking system logic
+- Problem-solving in C++
+
+---
+
+## Project Structure
+
+```
+Banking_Management_System.cpp
+README.md
+Main Menu.png
+Create Account.png
+Deposit Amount.png
+Withdraw Funds.png
+Create Account 2.png
+Transfer Funds.png
+Account Details.png
+Transaction History.png
+Exiting Program.png
+```
 
 ---
 
@@ -81,3 +106,9 @@ This project helped me understand:
 **Amna Affaf**
 
 GitHub: https://github.com/amnaaffaf3-coder
+
+---
+
+## Internship
+
+This project was completed as part of the **CodeAlpha C++ Programming Internship**.
